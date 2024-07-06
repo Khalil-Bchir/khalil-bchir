@@ -13,6 +13,5 @@ I'm a Fullstack Developer with 2 years of experience in building web apps. Passi
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Bchir&layout=compact&theme=radical)
 
 ## 📫 Contact
-- **Email:** khalil.bchir@example.com
-- **LinkedIn:** [Khalil Bchir](https://www.linkedin.com/in/khalil-bchir/)
-- **GitHub:** [Khalil-Bchir](https://github.com/Khalil-Bchir)
+- **Email:** mohamedkhalil.bcir@polytechnicien.tn
+- **LinkedIn:** [Khalil Bchir](https://www.linkedin.com/in/mohamed-khalil-bchir/)

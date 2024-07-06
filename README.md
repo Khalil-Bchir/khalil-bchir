@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Khalil Bchir 👋
 
-<!--
-**Khalil-Bchir/khalil-bchir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Fullstack Developer with 2 years of experience in building web applications. I love turning ideas into reality using code and am always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Vue 3, Angular, Tailwind CSS
+- **Tools:** Next.js, shadcn, Bootstrap
+
+### Backend
+- **Languages:** Node.js, TypeScript
+- **Frameworks:** Fastify, Express
+- **Databases:** MongoDB, PostgreSQL, Prisma ORM
+
+### DevOps
+- **Containers:** Docker, Docker Compose
+- **CI/CD:** GitHub Actions, Jenkins
+
+## 🌱 Currently Learning
+- Advanced TypeScript
+- Cloud services (AWS, Azure)
+- Serverless architecture
+
+## 📫 How to reach me
+- **Email:** khalil.bchir@example.com
+- **LinkedIn:** [Khalil Bchir](https://www.linkedin.com/in/khalil-bchir/)
+- 
+## ⚡ Fun Fact
+When I'm not coding, you can find me playing tennis or exploring new technologies!

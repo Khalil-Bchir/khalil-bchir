@@ -1,31 +1,22 @@
 # Hi there, I'm Khalil Bchir 👋
 
-I'm a passionate Fullstack Developer with 2 years of experience in building web applications. I love turning ideas into reality using code and am always eager to learn new technologies and improve my skills.
+![Profile Image](https://via.placeholder.com/150)
 
-## 🚀 Skills & Technologies
+I'm a Fullstack Developer with 2 years of experience in building web apps. Passionate about turning ideas into reality using code, I'm always eager to learn and grow.
 
-### Frontend
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Vue 3, Angular, Tailwind CSS
-- **Tools:** Next.js, shadcn, Bootstrap
+## 🚀 Skills
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vue 3, Angular, Tailwind CSS
+- **Backend:** Node.js, Fastify, Express, PostgreSQL, MongoDB, Prisma
+- **DevOps:** Docker, GitHub Actions, Jenkins
 
-### Backend
-- **Languages:** Node.js, TypeScript
-- **Frameworks:** Fastify, Express
-- **Databases:** MongoDB, PostgreSQL, Prisma ORM
+## 📈 GitHub Stats
+![Khalil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khalil-Bchir&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalil-Bchir&layout=compact&theme=radical)
 
-### DevOps
-- **Containers:** Docker, Docker Compose
-- **CI/CD:** GitHub Actions, Jenkins
-
-## 🌱 Currently Learning
-- Advanced TypeScript
-- Cloud services (AWS, Azure)
-- Serverless architecture
-
-## 📫 How to reach me
+## 📫 Contact
 - **Email:** khalil.bchir@example.com
 - **LinkedIn:** [Khalil Bchir](https://www.linkedin.com/in/khalil-bchir/)
-- 
+- **GitHub:** [Khalil-Bchir](https://github.com/Khalil-Bchir)
+
 ## ⚡ Fun Fact
-When I'm not coding, you can find me playing tennis or exploring new technologies!
+I love playing tennis and exploring new technologies!
